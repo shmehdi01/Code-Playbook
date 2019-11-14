@@ -11,9 +11,6 @@ For example, did you fix a bug in a code? Well...make sure to refactor it a litt
 
 Please try not to take office work home. Work efficiently in office to finish your daily work within office hours. Go home, enjoy with family and friends. Exercise a bit. Live a life.
 
-## Delive a programming product, not a program.
-
-What is that? Read [here](https://crownstack.github.io/writeup/2017/06/07/the-mythical-man-month.html)
  
 
 
