@@ -59,7 +59,7 @@ refactor/make-it-awesome
  - [ ] [How to write a git commit message](https://chris.beams.io/posts/git-commit/)
  - [ ] [GitCommitMessage](https://wiki.openstack.org/wiki/GitCommitMessages)
 
-## CrownStack Commit message format 
+## Commit message format 
 
 * Every commit should start with keywords like "Refactor:, Bug:, Feature:, Chore:", followed by name feature/bug you are working on. Something like that "Bug: home: Fix crash on home button click"
 * Commits should be small and should only do what its commit message says. For example, If it says that it fixes crash on home button click, it should only fix crash on Home button click and nothing more. Not even a small change needs to be done here. 
@@ -174,7 +174,6 @@ The reviewer needs to take care of following things
  - [ ] Since a code reviewer is the last line of defense, he/she will be held responsible for poor implementations and code quality. 
  - [ ] He/she has to make sure the original author has taken care of above-said things (his responsibilities.)
  - [ ] Reviewer has right to reject pull request as long as he/she is not satisfied. 
- - [ ] Please read [Reviewing Pull requests](https://github.com/CrownStack/crownstack-playbook/wiki/Git-Usage-Guidelines#reviewing-pull-requests)
 - [ ] Please reject pull request at once if you feel developer is doing same mistakes again and again, even after you pointed that out. 
 
 
