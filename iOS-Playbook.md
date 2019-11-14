@@ -8,9 +8,9 @@ Here is the detail to get you started with. Hopefully, you got your machine. Ple
 * [Community to learn from](https://github.com/shmehdi01/Code-Playbook/wiki/iOS-Community)
 * [Awesomeness](https://github.com/shmehdi01/Code-Playbook/blob/master/iOS-Community.md) 
 * [Book Suggestions](https://github.com/shmehdi01/Code-Playbook/blob/master/Book-Suggestions.md) 
-* [App Store Submission Checklist](https://github.com/shmehdi01/Code-Playbook/blob/master/App-Store-Submission-Checklist)
-* [iOS Best Practices](https://github.com/shmehdi01/Code-Playbook/blob/master/iOS-Best-Practices)
-* [iOS Build Delivery](https://github.com/shmehdi01/Code-Playbook/blob/master/iOS-Build-Delivery)
+* [App Store Submission Checklist](https://github.com/shmehdi01/Code-Playbook/blob/master/App-Store-Submission-Checklist.md)
+* [iOS Best Practices](https://github.com/shmehdi01/Code-Playbook/blob/master/iOS-Best-Practices.md)
+* [iOS Build Delivery](https://github.com/shmehdi01/Code-Playbook/blob/master/iOS-Build-Delivery.md)
 * [iOS Learning](https://github.com/shmehdi01/Code-Playbook/blob/master/iOS-Learning.md)
 
 ***
