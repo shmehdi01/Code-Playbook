@@ -10,9 +10,9 @@ Read our Android playbook and get used to our working style.
 * [Community to learn from](https://github.com/shmehdi01/Code-Playbook/blob/master/Android-Community..md)
 * [Awesomeness](https://github.com/shmehdi01/Code-Playbook/blob/master/Awesomeness.md)
 * [Recommendations](https://github.com/shmehdi01/Code-Playbook/blob/master/android-recommendations.md)
-* [Testing Guidelines](https://github.com/ravidsrk/android-testing-guide,md)
+* [Testing Guidelines](https://github.com/ravidsrk/android-testing-guide.md)
 * [Application Scaffolding](https://github.com/shmehdi01/Code-Playbook/blob/master/Application-Scaffolding.md)
-* [Android Build Delivery](https://github.com/shmehdi01/Code-Playbook/blob/master/Android-Build-Delivery,d)
+* [Android Build Delivery](https://github.com/shmehdi01/Code-Playbook/blob/master/Android-Build-Delivery.md)
 * [Android Learning](https://github.com/shmehdi01/Code-Playbook/blob/master/Android-Learning.md)
 ***
 
