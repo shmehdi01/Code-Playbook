@@ -5,15 +5,15 @@ Read our Android playbook and get used to our working style.
 
 
 
-* [Android Development Machine SetUp](https://github.com/CrownStack/crownstack-playbook/wiki/Android-Development-Machine-SetUp)
-* [Code Style Guide](https://github.com/CrownStack/crownstack-playbook/wiki/Android-Code-Style-Guide.)
-* [Community to learn from](https://github.com/CrownStack/crownstack-playbook/wiki/Android-Community.)
-* [Awesomeness](https://github.com/CrownStack/crownstack-playbook/wiki/Awesomeness)
-* [Recommendations](https://github.com/CrownStack/crownstack-playbook/wiki/android-recommendations)
+* [Android Development Machine SetUp](https://github.com/shmehdi01/Code-Playbook/blob/master/Android-Development-Machine-SetUp.md)
+* [Code Style Guide](https://github.com/shmehdi01/Code-Playbook/blob/master/Android-Code-Style-Guide..md)
+* [Community to learn from](https://github.com/shmehdi01/Code-Playbook/blob/master/Android-Community.)
+* [Awesomeness](https://github.com/shmehdi01/Code-Playbook/blob/master/Awesomeness)
+* [Recommendations](https://github.com/shmehdi01/Code-Playbook/blob/master/android-recommendations)
 * [Testing Guidelines](https://github.com/ravidsrk/android-testing-guide)
-* [Application Scaffolding](https://github.com/CrownStack/crownstack-playbook/wiki/Application-Scaffolding)
-* [Android Build Delivery](https://github.com/CrownStack/crownstack-playbook/wiki/Android-Build-Delivery)
-* [Android Learning](https://github.com/CrownStack/crownstack-playbook/wiki/Android-Learning)
+* [Application Scaffolding](https://github.com/shmehdi01/Code-Playbook/blob/master/Application-Scaffolding)
+* [Android Build Delivery](https://github.com/shmehdi01/Code-Playbook/blob/master/Android-Build-Delivery)
+* [Android Learning](https://github.com/shmehdi01/Code-Playbook/blob/master/Android-Learning)
 ***
 
 
