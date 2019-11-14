@@ -1,0 +1,120 @@
+This is the list of great iOS developers, newsletters and blogs. We suggest that iOS developers should follow these closely and be part of iOS community.
+
+You are always welcome to make a contribution to this list. Please add great developers, blogs; remove inactive one and help to maintain a meaningful list.
+
+### Great people to follow on Twitter
+
+* [Real Bad iOS Tips](https://twitter.com/realbadiostips)
+* [Swift Articles](https://twitter.com/SwiftArticles)
+* [Agnes Vasarhelyi](https://twitter.com/vasarhelyia)
+* [Ayaka Nonaka](https://twitter.com/ayanonagon)
+* [Slava Pestov](https://twitter.com/slava_pestov)
+* [Joe Groff](https://twitter.com/jckarter)
+* [Chris Eidhof](https://twitter.com/chriseidhof)
+* [John Sundell](https://twitter.com/johnsundell)
+* [Swift India](https://twitter.com/swiftindiagroup)
+* [Dominik Hauser](https://twitter.com/swiftpainless)
+* [Chris Lattner](https://twitter.com/clattner_llvm)
+* [Matt Galloway](https://twitter.com/mattjgalloway)
+* [Ash'ing Through the Snow](https://twitter.com/ashfurrow)
+* [Ole Begemann](https://twitter.com/olebegemann)
+* [Mattt](https://twitter.com/mattt)
+* [Ray Wenderlich](https://twitter.]com/rwenderlich)
+* [Dave Verwer](https://twitter.com/daveverwer)
+* [Krzysztof ZabłockiVerified account](https://twitter.com/merowing_)
+* [Steve Wozniak](https://twitter.com/stevewoz)
+* [Sophia Teutschler](https://twitter.com/_soaps)
+* [Joe Conway](https://twitter.com/joeconwaystk)
+* [Aaron Hillegass](https://twitter.com/AaronHillegass)
+* [ΚΙΜΩΝ](https://twitter.com/kimon)
+* [Cocoanetics](https://twitter.com/Cocoanetics)
+* [Dan Counsell](https://twitter.com/dancounsell)
+* [ᴧᴄᴋᴇᴙᴍᴀᴎᴎ](https://twitter.com/naturaln0va)
+* [Scott Berrevoets](https://twitter.com/ScottBerrevoets)
+* [Evan Dekhayser](https://twitter.com/ERDekhayser)
+* [Brian Broom](https://twitter.com/bcbroom)
+* [Eric Cerney](https://twitter.com/ecerney)
+* [Morten Faarkrog](https://twitter.com/mfaarkrog)
+* [József Vesza](https://twitter.com/j_vesza)
+* [Kelvin](https://twitter.com/KelvinlauKl)
+* [Tom Jacobs](https://twitter.com/TomPJacobs)
+
+### Great people to follow on github
+
+* [Jawwad Ahmad](https://github.com/jawwad)
+* [Soheil Moayedi Azarpour](https://github.com/moayes)
+* [Scott Berrevoets](https://github.com/Scott90)
+* [Jessy Catterwaul](https://github.com/JessyCatterwaul)
+* [Eric Cerney](https://github.com/ecerney)
+* [Sam Davies](https://github.com/sammyd)
+* [Evan Dekhayser](https://github.com/edekhayser)
+* [Jean-Pierre Distler](https://github.com/pdistler)
+* [Colin Eberhardt](https://github.com/ColinEberhardt)
+* [Vadim Eisenberg](https://github.com/vadimeisenbergibm)
+* [Ray Fix](https://github.com/rayfix)
+* [Joshua Greene](https://github.com/JRG-Developer)
+* [Robert Gummesson](https://github.com/RobertGummesson)
+* [Greg Heo](https://github.com/gregheo)
+* [Matthijs Hollemans](https://github.com/hollance)
+* [Erik Kerber](https://github.com/eskerber)
+* [Christopher LaPollo](https://github.com/elephantronic)
+* [Ben Morrow](https://github.com/benmorrow)
+* [Andy Pereira](https://github.com/macandyp)
+* [Ryan Nystrom](https://github.com/rnystrom)
+* [Andy Obusek](https://github.com/obuseme)
+* [Cesare Rocchi](https://github.com/funkyboy)
+* [Ellen Shapiro](https://github.com/designatednerd)
+* [Marin Todorov](https://github.com/icanzilb)
+* [Chris Wagner](https://github.com/cwagdev)
+* [Ray Wenderlich](https://github.com/rwenderlich)
+* [Jack Wu](https://github.com/jackwu95)
+* [Scott Berrevoets](https://github.com/sberrevoets)
+* [Matthijs Hollemans](https://github.com/hollance)
+* [Felix Krause](https://github.com/KrauseFx)
+
+### Great people to follow on medium
+
+* [Sebastian Kreutzberger](https://medium.com/@skreutzb)
+* [Paweł Białecki](https://medium.com/@pawel_bialecki)
+* [Sam Lu](https://medium.com/@samvlu)
+* [Bohdan Orlov](https://medium.com/@borlov)
+* [Elliot Jay Stocks](https://medium.com/@elliotjaystocks)
+* [Anima App](https://medium.com/@AnimaApp)
+* [Timur Nurutdinov](https://medium.com/@tilllur)
+* [Sebastian Boldt](https://medium.com/@sebastianbo)
+* [Katie Smillie](https://medium.com/@katiesmillie)
+* [Pier Bover](https://medium.com/@Pier)
+* [Brandon Williams](https://medium.com/@mbrandonw)
+
+## Great people to follow on Hackernoon
+
+* [Tom Jacobs](https://hackernoon.com/@TomPJacobs)
+* [DashBouquet](https://hackernoon.com/@dash_bouquet?source=---------8----------------)
+* [Mohammad Azam](https://hackernoon.com/@azamsharp)
+
+### Great newsletters to subscribe
+
+* [iOS Weekly](https://iosdevweekly.com/)
+* [Swift Weekly](http://swiftweekly.com/)
+* [Appcoda weekly](http://digest.appcoda.com/)
+* [iOS Goodies](http://ios-goodies.com/)
+* [Awesome iOS](https://ios.libhunt.com/newsletter/archive)
+
+### Great websites to visit
+* [NSScreencast](http://nsscreencast.com/episodes)
+* [Cocoa Dev Central](http://cocoadevcentral.com/)
+* [Cocoa Controls](https://www.cocoacontrols.com/)
+* [Medium](https://medium.com/)
+* [RayWenderLich](https://www.raywenderlich.com/)
+* [NSHipster](http://nshipster.com/)
+* [Objc.io](https://www.objc.io/)
+* [ASCIIwwdc](http://asciiwwdc.com/)
+* [Use Your Loaf](https://useyourloaf.com/)
+* [iOS Blog](http://www.ios-blog.co.uk/)
+* [NSCookBook](http://nscookbook.com/recipes/)
+* [Code Tutsplus](https://code.tutsplus.com/series/learn-ios-sdk-development-from-scratch--mobile-14536)
+
+Additionally here is the list of Engineering blogs of various companies, please follow according to your area of interests. 
+
+* [List 1](https://github.com/kilimchoi/engineering-blogs)
+* [List 2](https://github.com/sumodirjo/engineering-blogs)
