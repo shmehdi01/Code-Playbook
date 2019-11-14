@@ -2,15 +2,15 @@ Here is the detail to get you started with. Hopefully, you got your machine. Ple
 
 ***
 
-* [iOS Development Machine SetUp](https://github.com/shmehdi01/Code-Playbook/wiki/Machine-SetUp)
-* [Code Style Guide](https://github.com/CrownStack/crownstack-playbook/wiki/Swift-Code-Style-Guide)
-* [Project Scaffolding](https://github.com/shmehdi01/Code-Playbook/wiki/iOS-Project-Scaffolding)
+* [iOS Development Machine SetUp](https://github.com/shmehdi01/Code-Playbook/blob/master/Machine-SetUp.md)
+* [Code Style Guide](https://github.com/shmehdi01/Code-Playbook/blob/master/Swift-Code-Style-Guide.md)
+* [Project Scaffolding](https://github.com/shmehdi01/Code-Playbook/blob/master/iOS-Project-Scaffolding.md)
 * [Community to learn from](https://github.com/shmehdi01/Code-Playbook/wiki/iOS-Community)
-* [Awesomeness](https://github.com/shmehdi01/Code-Playbook/wiki/Awesomeness-iOS) 
-* [Book Suggestions](https://github.com/shmehdi01/Code-Playbook/master/Book-Suggestions) 
-* [App Store Submission Checklist](https://github.com/shmehdi01/Code-Playbook/wiki/App-Store-Submission-Checklist)
-* [iOS Best Practices](https://github.com/shmehdi01/Code-Playbook/master/iOS-Best-Practices)
-* [iOS Build Delivery](https://github.com/shmehdi01/Code-Playbook/master/iOS-Build-Delivery)
+* [Awesomeness](https://github.com/shmehdi01/Code-Playbook/blob/master/iOS-Community.md) 
+* [Book Suggestions](https://github.com/shmehdi01/Code-Playbook/blob/master/Book-Suggestions.md) 
+* [App Store Submission Checklist](https://github.com/shmehdi01/Code-Playbook/blob/master/App-Store-Submission-Checklist)
+* [iOS Best Practices](https://github.com/shmehdi01/Code-Playbook/blob/master/iOS-Best-Practices)
+* [iOS Build Delivery](https://github.com/shmehdi01/Code-Playbook/blob/master/iOS-Build-Delivery)
 * [iOS Learning](https://github.com/shmehdi01/Code-Playbook/blob/master/iOS-Learning.md)
 
 ***
