@@ -1,7 +1,7 @@
 Welcome to the Code-playbook wiki!
 
 * [Git usage guidelines](https://github.com/shmehdi01/Code-Playbook/blob/master/Git-Usage-Guidelines.md)
-* [Productivity Hacks](https://github.com/CrownStack/crownstack-playbook/wiki/CrownStack-Productivity-Hacks.)
+* [Productivity Hacks](https://github.com/shmehdi01/Code-Playbook/blob/master/Productivity-Hacks..md)
 ***
 
 
